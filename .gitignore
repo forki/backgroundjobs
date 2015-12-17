@@ -1,0 +1,11 @@
+*.suo
+*.bak
+data/
+packages/
+obj/
+bin/
+.paket/paket.exe
+*.svclog
+output
+*.orig
+.fake
